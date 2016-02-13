@@ -22,4 +22,6 @@ Options include: <br/>
 `java -jar Diff.jar . -Dseparator=:` 	    // Defines the separator of ':' <br/>
 `java -jar Diff.jar . -Dout=result.txt` 	// Defines the output file 'result.txt' to store the comparing result <br/>
 
+
 Any questions or suggestions please feel free to reach the author `Wade Pei` at wadepei@163.com <br/>
+Thanks. <br/>
