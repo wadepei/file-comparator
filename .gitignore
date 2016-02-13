@@ -1,0 +1,11 @@
+# Java files
+*.class
+
+# maven noise
+/target/
+
+# Eclipse noise
+.settings
+.settings/*
+.project
+.classpath
